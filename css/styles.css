@@ -1,0 +1,43 @@
+body {
+  padding-top: 5rem;
+  background-color: purple;
+  color: yellow;
+  font-family:fantasy;
+}
+
+h1{
+  color: yellow;
+}
+
+p{
+  color: orange;
+}
+
+.btn-primary {
+  color: purple;
+  background-color: yellow;
+}
+
+.btn-primary:hover{
+  color:yellow
+  background-color: purple;
+}
+
+.btn-secondary {
+  color: purple;
+  background-color: yellow;
+}
+
+.btn-secondary:hover{
+  color:yellow
+  background-color: purple;
+}
+
+.bg-dark {
+  background-color: yellow;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
