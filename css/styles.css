@@ -1,12 +1,14 @@
 body {
   padding-top: 5rem;
-  background-color: purple;
-  color: yellow;
-  font-family:fantasy;
+  background-color: rgb(242, 224, 119);
+  color: rgb(237, 87, 45);
+  font-family: fantasy;
 }
 
 h1{
-  color: yellow;
+  color: rgb(237, 87, 45);
+  font-family: fantasy;
+
 }
 
 p{
