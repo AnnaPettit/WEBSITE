@@ -1,23 +1,19 @@
 body {
   padding-top: 5rem;
-  background-color: rgb(230, 227, 227);
+  background-color: rgb(242, 224, 119);
   color: rgb(237, 87, 45);
   font-family: fantasy;
 }
 
 h1{
-  color: rgb(232, 190, 2);
+  color: rgb(237, 87, 45);
   font-family: fantasy;
+
 }
 
-
-.yaya{
-  color: rgb(232, 190, 2)
-}
-
-p{
-  color: grey;
-}
+/* p {
+  color: orange;
+} */
 
 .btn-primary {
   color: purple;
@@ -46,4 +42,20 @@ p{
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
+}
+
+.hello1 {
+  color:grey;
+}
+
+.hello2 {
+  color: grey;
+}
+
+.hello3 {
+  color: grey;
+}
+
+.lead {
+  color: rgb(232, 190, 2);
 }
