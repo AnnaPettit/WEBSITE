@@ -1,3 +1,7 @@
 .navbar{
   background-color: rgba(245, 188, 66, 0.5);
 }
+
+.jumbotron-fluid{
+  color:black;
+}
