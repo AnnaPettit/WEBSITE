@@ -1,6 +1,6 @@
-.body {
+body {
   padding-top: 5rem;
-  background-image: url("summer background.jpg");
+  background-image: url("../images/summerbackground.jpg");
   color: grey;
 }
 
@@ -9,14 +9,25 @@ h1{
   font-family: fantasy;
 }
 
+.container{
+  background-color:  rgba(232, 190, 2, 0.7);
+  color: white;
+}
+
+.navbar{
+  background-color: rgba(245, 188, 66, 0.4);
+}
 
 .yaya{
   color: rgb(232, 190, 2)
 }
 
+
+
 p{
-  color: grey;
+  color: white;
 }
+
 
 .btn-primary {
   color: purple;
