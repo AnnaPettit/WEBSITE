@@ -1,15 +1,22 @@
+.body{
+  margin:20rem;
+  background-color: rgb(252, 186, 3);
+}
+
 .navbar{
   background-color: rgba(245, 188, 66, 0.5);
+  opacity: 40%;
 }
 
 .jumbotron-fluid{
-  color:black;
-  text-color: rgba(84, 182, 178);
+  text-color: rgb(237, 87, 45);
 font-family:fantasy;
-  background-image: url("My Post.png");
+  background-image: url("festival blur.jpeg");
  background-size: auto 100%;
 }
 
-.card{
-  padding-left: 50px
+
+
+.btn-warning{
+  font-family:fantasy;
 }
