@@ -1,0 +1,15 @@
+.navbar{
+  background-color: rgba(245, 188, 66, 0.5);
+}
+
+.jumbotron-fluid{
+  color:black;
+  text-color: rgba(84, 182, 178);
+font-family:fantasy;
+  background-image: url("My Post.png");
+ background-size: auto 100%;
+}
+
+.card{
+  padding-left: 50px
+}
