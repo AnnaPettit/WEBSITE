@@ -5,15 +5,16 @@ body {
   font-family: fantasy;
 }
 
-h1{
-  color: rgb(237, 87, 45);
+.hello2{
+  color:white;
   font-family: fantasy;
-
 }
 
-/* p {
-  color: orange;
-} */
+.lead{
+  color:white;
+}
+
+
 
 .btn-primary {
   color: purple;
@@ -42,16 +43,4 @@ h1{
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
-}
-
-.hello1 {
-  color:grey;
-}
-
-.hello2 {
-  color:grey;
-}
-
-.hello3 {
-  color:black;
 }
