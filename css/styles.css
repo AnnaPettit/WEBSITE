@@ -1,12 +1,11 @@
-body {
+.body {
   padding-top: 5rem;
-  background-color: rgb(230, 227, 227);
-  color: rgb(237, 87, 45);
-  font-family: fantasy;
+  background-image: url("summer background.jpg");
+  color: grey;
 }
 
 h1{
-  color: rgb(232, 190, 2);
+  color: black;
   font-family: fantasy;
 }
 
@@ -47,4 +46,8 @@ p{
 
 .container{
     text-align: center;
+}
+
+.jumbotron{
+  background-color: rgb(232, 190, 2);
 }
